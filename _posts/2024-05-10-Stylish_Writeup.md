@@ -191,7 +191,7 @@ Many times we want a css to apply based on the content we have. For example, if 
 ```html
 <input value=1337>
 <style>
-input[value="1337]{
+input[value="1337"]{
 	--value: url(/collectData?value=1337);
 }
 input {
