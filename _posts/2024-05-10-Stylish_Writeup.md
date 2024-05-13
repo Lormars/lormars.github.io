@@ -1,8 +1,8 @@
 ---
 title: HTB Stylish
 date: 2024-05-10 12:12:30
-categories: [note, testnote]
-tags: [test]
+categories: [HTB, web security, writeup]
+tags: [CSS Exfiltration]
 mermaid: true
 ---
 
