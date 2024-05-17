@@ -9,7 +9,7 @@ tags: [GraphQL]
 
 This is a straightforward write-up for the HackerOne CTF challenge, BugDB v1, which focuses on GraphQL.
 
-While this challenge is relatively simple, I want to highlight a useful tool for pentesting GraphQL: [GraphQL Visualizer](http://nathanrandal.com/graphql-visualizer/). This tool is incredibly helpful for visualizing the model relationships within a GraphQL API.
+While this challenge is relatively simple, I want to highlight a useful tool for pentesting GraphQL: [GraphQL Visualizer](https://nathanrandal.com/graphql-visualizer/). This tool is incredibly helpful for visualizing the model relationships within a GraphQL API.
 
 Let's dive in.
 
