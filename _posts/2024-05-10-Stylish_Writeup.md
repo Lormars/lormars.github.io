@@ -1,7 +1,7 @@
 ---
 title: HTB Stylish
 date: 2024-05-10 12:12:30
-categories: [HTB, web security, writeup]
+categories: [Writeup, CTF]
 tags: [CSS Exfiltration]
 mermaid: true
 ---
