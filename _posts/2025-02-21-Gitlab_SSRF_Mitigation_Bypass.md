@@ -1,5 +1,5 @@
 ---
-title: From Report to Patch - SSRF mitigation bypass
+title: From Report to Patch - Gitlab SSRF mitigation bypass
 date: 2025-02-20 1:00:00
 categories: [Digest, BBP]
 tags: [Gitlab, SSRF, Ruby]
