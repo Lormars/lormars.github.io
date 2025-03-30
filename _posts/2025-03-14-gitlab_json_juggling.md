@@ -83,7 +83,7 @@ Here, `any_mutating_query` is used to check whether there is `mutation` query in
   end
 ```
 
-Notice here, it checks whether the request is a `batch` by checking whether `:json` is an array. Given what we know about ruby hashing in the above sections, we know that this check is totally controlled by the user. So we can just send a request like 
+Notice here, it checks whether the request is a `batch` by checking whether `:_json` is an array. Given what we know about ruby hashing in the above sections, we know that this check is totally controlled by the user. So we can just send a request like 
 ```http
 https://host/path?_json[][query]=query%20{__typename}
 ```
